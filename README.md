@@ -9,7 +9,7 @@ I’ve also published two research papers:
 - Using ChatGPT in Designing Web Applications Resistant to SQL Injection Attacks  
 - Evaluating Memory Management and Garbage Collection Algorithms with Virtual Threads in High-Concurrency Java Applications
 
-I did an Erasmus exchange in Madrid at Universidad Complutense, studying Computer Science. That entailed lots of learning, lots of exploring, and honestly… lots of sunshine. Not a bad place to spend a semester.
+I did an Erasmus exchange in Madrid at Universidad Complutense, studying Computer Science. That entailed lots of learning, lots of exploring, and lots of sunshine.
 
 Outside of code, I try to stay as active as possible. I play tennis, go to the gym, swim, and hike. I’m also into rollerskating and hiking, and when I’m in a creative mood you’ll find me doing pottery, tufting, or felting. I love baking, cooking, and gardening too, anything that gets me away from the screen for a bit.
 
